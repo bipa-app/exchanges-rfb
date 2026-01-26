@@ -29,7 +29,7 @@
     "cpf-cnpj-validator": "^0.1.0",
     "esm": "^3.2.25",
     "mocha": "^6.2.1",
-    "moment": "^2.24.0",
+    "moment-timezone": "^0.5.46",
     "simpl-schema": "^1.5.5"
   }
 }
